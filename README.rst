@@ -1,3 +1,10 @@
+Récupérer ce dépot
+==================
+
+Récupérez les sources du blog, y compris les sous modules::
+
+    git clone https://github.com/ametaireau/afpy-blog --recursive
+
 Comment générer le blog?
 ========================
 
