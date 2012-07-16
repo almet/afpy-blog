@@ -8,4 +8,6 @@ Computer Camp, dans la belle bourgade de Turcey, en côte d'or.
 
 Au programme; arduino, pétanque, python, bœuf bourgignon… que du bon!
 
+.. image::  http://dl.afpy.org/camp.gif
+
 XXX: ajouter quelques photos, etc.
