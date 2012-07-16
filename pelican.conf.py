@@ -4,7 +4,7 @@
 AUTHOR = u"Afpy"
 SITENAME = u"Blog de l'Afpy"
 SITEURL = '/'
-THEME = "chunk"
+THEME = "afpy"
 
 TIMEZONE = 'Europe/Paris'
 
